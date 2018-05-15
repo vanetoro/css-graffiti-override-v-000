@@ -10,6 +10,6 @@ body #wall #tag-2{
   display: none;
 }
 
-body div#wall div#tag-3 .slick .wicked{
+body div#wall div#tag-3 {
   display: :none
 }
